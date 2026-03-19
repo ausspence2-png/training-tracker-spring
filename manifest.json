@@ -1,0 +1,18 @@
+{
+  "name": "Spring Training Tracker",
+  "short_name": "Training",
+  "description": "Home workout tracker for your spring training plan",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#0f0f0f",
+  "theme_color": "#e8ff47",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
